@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from tavily import TavilyClient
-from datetime import datetime
+
 
 # Load environment variables
 load_dotenv()
@@ -24,8 +24,6 @@ STUDY_TIPS = {
 # Advanced AI agent function
 def study_agent(query, education_level=None):
     try:
-        # Get current date and time
-        current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
         # Detect education level from query or input
         query_lower = query.lower()
