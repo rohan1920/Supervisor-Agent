@@ -1,0 +1,42 @@
+[2025-05-08 01:14:07] Study Assistant Response (as of 2025-05-08 01:14:07):
+Query: piaic
+Education Level: PIAIC
+Subject: Ai
+Study Tips: Master Python and TensorFlow. Complete PIAIC assignments, build neural network projects, and explore Kaggle datasets.
+
+Web Resources:
+1. Presidential Initiative for Artificial Intelligence and Computing ... (https://en.wikipedia.org/wiki/Presidential_Initiative_for_Artificial_Intelligence_and_Computing_(Pakistan)):
+   The Presidential Initiative for Artificial Intelligence and Computing (PIAIC) was launched by the President of Pakistan, Dr. Arif Alvi, to promote education, research and business opportunities in Art...
+2. PIAIC - YouTube (https://www.youtube.com/piaic):
+   PIAIC is an interdisciplinary hub for mass education, research, and business, offering courses in artificial intelligence (AI), data science, cloud native...
+3. PIAIC - YouTube (https://www.youtube.com/c/PIAIC/videos):
+   PIAIC is an interdisciplinary hub for mass education, research, and business, offering courses in artificial intelligence (AI), data science, cloud native...
+4. PIAIC - Facebook (https://www.facebook.com/piaic/):
+   PIAIC, Karachi, Pakistan. 60291 likes · 114 talking about this. PIAIC's aim is to transform education, research and business in Pakistan....
+5. Artificial Inteligence - PIAIC (https://www.piaic.com/artificial-inteligence):
+   Artificial Intelligence. A ONE YEAR AI PROGRAM DESIGNED FOR ABSOLUTE BEGINNERS. GETTING PAKISTAN READY FOR THE NEW ERA OF COMPUTING ENABLED BY THE RISE OF AI....
+
+
+[2025-05-17 22:38:51] Study Assistant Response (as of 2025-05-17 22:38:51):
+Query: PIAIC blockchain syllabus
+Education Level: PIAIC
+Subject: Ai
+Study Tips: Master Python and TensorFlow. Complete PIAIC assignments, build neural network projects, and explore Kaggle datasets.
+
+Web Resources:
+1. Bcc-q1-Syllabus 2022 Piaic - Computing - Scribd (https://www.scribd.com/document/603458472/Bcc-q1-Syllabus-2022-Piaic-1):
+   Document Informationclick to expand document informationThis document outlines the syllabus for a 12-week blockchain specialist program. The program will cover fundamental blockchain concepts, Ethereu...
+2. PIAIC BC Q4 Syllabus | PDF - Scribd (https://www.scribd.com/document/734750800/PIAIC-BC-Q4-Syllabus):
+   Document Informationclick to expand document informationThe document outlines a 12-week blockchain specialist program covering Dapp development and decentralized finance. Students will learn to build ...
+3. Blockchain - PIAIC (https://www.piaic.org/block-chain):
+   In this module, students will get an introduction to digital money, bitcoin and the blockchain. Students will learn about trestles systems and proof of work....
+4. zeeshanhanif/blockchain-piaic-q4-tutorials - GitHub (https://github.com/zeeshanhanif/blockchain-piaic-q4-tutorials):
+   Name | Name | Last commit message | Last commit date
+Latest commitHistory12 Commits
+01_redux/react-redux-hooks | 01_redux/react-redux-hooks |  | 
+02_redux-toolkit | 02_redux-toolkit |  | 
+03_dapp-pets...
+5. blockchain-piaic-q4-tutorials/PIAIC-BC-Q4-Syllabus.pdf at main ... (https://github.com/zeeshanhanif/blockchain-piaic-q4-tutorials/blob/main/PIAIC-BC-Q4-Syllabus.pdf):
+   This repo is for Quarter 4 content of Blockchain. Contribute to zeeshanhanif/blockchain-piaic-q4-tutorials development by creating an account on GitHub....
+
+
